@@ -1,5 +1,5 @@
 '''
-	CREATE A HIJACKER
+	CREATE A HIJACKER (v1.0, 3/2015)
 	given a generic hijacker dylib and a target dlyib, configure the hijack dylib so that it's a *compatible* hijacker
 	1) set version @#'s in custom dylib to match target dylib
 	2) set re-export to point to target dylib

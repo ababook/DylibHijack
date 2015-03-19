@@ -1,5 +1,5 @@
 '''
-	SCAN FOR VULNERABLE (HIJACKABLE) BINARIES
+	SCAN FOR VULNERABLE (HIJACKABLE) BINARIES (v1.0, 3/2015)
 	scans the list of running processes or the entire file-system for applications that either
 	1) contain a weak import (LC_LOAD_WEAK_DYLIB) that doesn't exist
 	2) contain multiple run-path search paths, and a run-path import that doesn't exist in the primary search path
